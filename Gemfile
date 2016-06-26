@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+gem 'simple_form', '~> 3.2', '>= 3.2.1'
+
+gem 'haml', '~> 4.0', '>= 4.0.7'
+
+gem 'devise', '~> 4.1', '>= 4.1.1'
+
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
